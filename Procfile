@@ -1,2 +1,2 @@
 
-web: gunicorn djorg-app.wsgi
+web: gunicorn djorg.wsgi
