@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\John\\.virtualenvs\\djorg-QHyGZVtY\\scripts\\python.exe",
-    "python.linting.enabled": false
+    "python.pythonPath": "C:\\Users\\John\\.virtualenvs\\djorg-zOA79xdn\\scripts\\python.exe",
+    "python.linting.enabled": false,
+    "git.ignoreLimitWarning": true
 }

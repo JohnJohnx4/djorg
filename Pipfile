@@ -11,6 +11,7 @@ python-decouple = "*"
 whitenoise = "*"
 django = "*"
 djangorestframework = "*"
+graphene-django = "*"
 
 [dev-packages]
 "autopep8" = "*"
